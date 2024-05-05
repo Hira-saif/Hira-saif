@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hira-saif
 - 👀 I’m interested in atmospheric sciences
-- 🌱 I’m currently learning remote sensing generally and python specifically.
+- 🌱 I’m currently learning remote sensing.
 - 📫 Reach me at hirasaif12@gmail.com 
 
 <!---
